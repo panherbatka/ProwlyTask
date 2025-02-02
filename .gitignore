@@ -1,3 +1,5 @@
 /.venv/
 /.idea/
 /.robotcode_cache/
+__pycache__
+/results/
